@@ -26,3 +26,6 @@
 - 输入相应的参数（如长、宽、高或边长）。
 - 按下 `X` 键清屏并返回菜单。
 - 选择退出程序时，程序将安全退出。
+
+## 其他帮助
+[help!](https://ted-lijunyu.top/help/cuboids-and-cubes.html)
